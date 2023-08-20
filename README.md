@@ -6,9 +6,9 @@
 - [Keylogger](https://github.com/DanielDominguezBender/Keylogger)
 
 <h2> :scroll: Certifications </h2>
-- [Google Cybersecurity Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7098710593229991937/)<br>
-- [Freecodecamp Javascript Algorithms and Data Structures]<br>
-- [Freecodecamp Responsive Web Design]
+- Google Cybersecurity Certificate<br>
+- Freecodecamp Javascript Algorithms and Data Structures<br>
+- Freecodecamp Responsive Web Design<br>
 <!--
 **DanielDominguezBender/DanielDominguezBender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
