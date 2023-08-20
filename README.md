@@ -4,6 +4,9 @@
 
 - [File Integrity Monitoring](https://github.com/DanielDominguezBender/FileIntegrityMonitoring)
 - [Keylogger](https://github.com/DanielDominguezBender/Keylogger)
+- [Forensic Analysis](https://github.com/DanielDominguezBender/ForensicAnalysis)
+- [Pentesting]
+- [SQL Injection]
 
 <h2> :scroll: Certifications </h2>
 - Google Cybersecurity Certificate<br>
