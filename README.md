@@ -2,8 +2,8 @@
 
 <h2> :computer: Cybersecurity Projects</h2>
 
-- [File Integrity Monitoring](https://github.com/DanielDominguezBender/)
-- [Keylogger](https://github.com/DanielDominguezBender)
+- [File Integrity Monitoring](https://github.com/DanielDominguezBender/FileIntegrityMonitoring)
+- [Keylogger](https://github.com/DanielDominguezBender/Keylogger)
 
 <h2> :scroll: Certifications </h2>
 - [Google Cybersecurity Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7098710593229991937/)<br>
