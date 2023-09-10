@@ -3,8 +3,7 @@
 <h2> :computer: Cybersecurity Projects</h2>
 
 - [File Integrity Monitoring](https://github.com/DanielDominguezBender/FileIntegrityMonitoring)
-- [Keylogger](https://github.com/DanielDominguezBender/Keylogger)<br>
-[In progress :construction:]
+- [Keylogger](https://github.com/DanielDominguezBender/Keylogger)
 - [Forensic Analysis](https://github.com/DanielDominguezBender/ForensicAnalysis)<br>
 [Will come in short :soon:]
 - [Pentesting]
