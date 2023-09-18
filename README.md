@@ -5,7 +5,7 @@
 - [File Integrity Monitoring](https://github.com/DanielDominguezBender/FileIntegrityMonitoring)
 - [Keylogger](https://github.com/DanielDominguezBender/Keylogger)
 - [Forensic Analysis](https://github.com/DanielDominguezBender/ForensicAnalysis)<br>
-- [Pentesting]<br>
+- [Pentesting - Metasploit](https://github.com/DanielDominguezBender/Pentesting-Metasploit-Vulnerabilities)<br>
 [Will come in short :soon:]
 - [SQL Injection]
 
