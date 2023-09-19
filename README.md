@@ -9,6 +9,7 @@
 [Will come in short :soon:]
 - [SQL Injection]
 - [Network intrusion detection - Snort]
+<!-- Técnicas de ocultación de la información -->
 
 <h2> :scroll: Certifications </h2>
 - Google Cybersecurity Certificate<br>
