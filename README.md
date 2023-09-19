@@ -8,6 +8,7 @@
 - [Pentesting - Metasploit](https://github.com/DanielDominguezBender/Pentesting-Metasploit-Vulnerabilities)<br>
 [Will come in short :soon:]
 - [SQL Injection]
+- [Network intrusion detection - Snort]
 
 <h2> :scroll: Certifications </h2>
 - Google Cybersecurity Certificate<br>
