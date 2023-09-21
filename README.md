@@ -15,6 +15,11 @@
 - Google Cybersecurity Certificate<br>
 - Freecodecamp Javascript Algorithms and Data Structures<br>
 - Freecodecamp Responsive Web Design<br>
+
+<h2> :sound: Podcasts I'm currently listening to:</h2>
+- Darknet Diaries (Jack Ryshider)<br>
+- Huberman Lab (Andrew Huberman)<br>
+- Cybersecurity Simplified (Susanna Song & David Barton)
 <!--
 **DanielDominguezBender/DanielDominguezBender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
