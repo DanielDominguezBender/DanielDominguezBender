@@ -7,7 +7,7 @@
 - [Forensic Analysis](https://github.com/DanielDominguezBender/ForensicAnalysis)<br>
 - [Pentesting - Metasploit](https://github.com/DanielDominguezBender/Pentesting-Metasploit-Vulnerabilities)<br>
 - [SQL Injection](https://github.com/DanielDominguezBender/SQLi)<br>
-- [Network intrusion detection - Snort](https://github.com/DanielDominguezBender/Snort)<br>
+- [Snort](https://github.com/DanielDominguezBender/Snort)<br>
 [Will come in short :soon:]
 - [SIEM]
 <!-- Técnicas de ocultación de la información -->
