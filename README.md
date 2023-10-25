@@ -10,6 +10,7 @@
 - [Snort](https://github.com/DanielDominguezBender/Snort)<br>
 [Will come in short :soon:]
 - [SIEM]
+- [Blockchain]
 <!-- Técnicas de ocultación de la información -->
 
 <h2> :scroll: Certifications </h2>
