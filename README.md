@@ -11,6 +11,8 @@
 [Will come in short :soon:]
 - [SIEM]
 - [Blockchain]
+- [Raspberry projects]
+
 <!-- Técnicas de ocultación de la información -->
 
 <h2> :scroll: Certifications </h2>
