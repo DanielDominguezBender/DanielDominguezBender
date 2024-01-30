@@ -12,6 +12,7 @@
 - [SIEM]
 - [Blockchain]
 - [Raspberry projects]
+- [PENTESTING - CTF]
 
 <!-- Técnicas de ocultación de la información -->
 
