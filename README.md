@@ -25,6 +25,9 @@
 - Darknet Diaries (Jack Ryshider)<br>
 - Huberman Lab (Andrew Huberman)<br>
 - Cybersecurity Simplified (Susanna Song & David Barton)
+
+<h2> :cloud: Tryhackme Progress</h2>
+<img src="https://tryhackme-badges.s3.amazonaws.com/dadobe.png" alt="TryHackMe">
 <!--
 **DanielDominguezBender/DanielDominguezBender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
