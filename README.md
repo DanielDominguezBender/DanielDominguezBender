@@ -16,6 +16,10 @@
 
 <!-- Técnicas de ocultación de la información -->
 
+<h2> :books: Education</h2>
+- Master Degree in Cybersecurity and Privacy - <a href="https://www.uoc.edu/es"> UOC </a> <br>
+- Degree in Computer Engineering - <a href="https://www.uoc.edu/es"> UOC </a> <br>
+
 <h2> :scroll: Certifications </h2>
 - Google Cybersecurity Certificate<br>
 - Freecodecamp Javascript Algorithms and Data Structures<br>
