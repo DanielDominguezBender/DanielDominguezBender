@@ -9,10 +9,11 @@
 - [SQL Injection](https://github.com/DanielDominguezBender/SQLi)<br>
 - [Snort](https://github.com/DanielDominguezBender/Snort)<br>
 - [PENTESTING - CTF](https://github.com/DanielDominguezBender/Pentesting-CTF/blob/main/README.md)<br>
-[Will come in short :soon:]
-- [SIEM]
-- [Blockchain]
-- [Raspberry projects]
+>[!NOTE]
+> Will come in short :soon:
+> [SIEM]
+> [Blockchain]
+> [Raspberry projects]
 
 <!-- Técnicas de ocultación de la información -->
 
