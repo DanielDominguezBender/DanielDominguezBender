@@ -14,6 +14,8 @@
 > [SIEM]
 > [Blockchain]
 > [Raspberry projects]
+> [WSL]
+> [Prepare Linux Terminal for developing]
 
 <!-- Técnicas de ocultación de la información -->
 
