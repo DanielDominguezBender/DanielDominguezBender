@@ -18,8 +18,10 @@
 > [WSL]
 > [Prepare Linux Terminal for developing]
 
-<h2> 🥼 Labs</h2>
-- [Dockerlabs.es](https://github.com/DanielDominguezBender/dockerlabs.es)
+
+<h2> :microscope: Labs</h2>
+- <a href="https://github.com/DanielDominguezBender/dockerlabs.es">dockerlabs.es</a>
+
 <!-- Técnicas de ocultación de la información -->
 
 <h2> :books: Education</h2>
