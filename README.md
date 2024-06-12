@@ -1,5 +1,9 @@
 <h1> Hi, I'm Daniel! </h1>
 
+<p align="center">
+  <img src="img/github-header-image.png">
+</p>
+
 <h2> :computer: Cybersecurity Projects</h2>
 
 - [File Integrity Monitoring](https://github.com/DanielDominguezBender/FileIntegrityMonitoring)
