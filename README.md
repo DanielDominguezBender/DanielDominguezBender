@@ -1,7 +1,5 @@
-<h1> Hi, I'm Daniel! </h1>
-
 <p align="center">
-  <img src="img/github-header-image.png">
+  <img src="imgs/github-header-image.png">
 </p>
 
 <h2> :computer: Cybersecurity Projects</h2>
