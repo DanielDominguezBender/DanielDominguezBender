@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="imgs/github-header-image.png">
-</p>
+![Header](imgs/github-header-image.png)
 
 <h2> :computer: Cybersecurity Projects</h2>
 
