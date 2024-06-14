@@ -1,5 +1,9 @@
 ![Header](imgs/github-header-image.png)
 
+<h2> 🤓 WHOAMI</h2>
+
+From a young age, I've been driven by curiosity about technology, starting with disassembling my Walkman 🎧. My interest in cybersecurity 🔒 led me to a Master's Degree 🎓, where I learned to safeguard digital landscapes 🌍. My career spans IT support 🖥️, project assistance 📋, and business process automation 🤖. Passionate about technology's potential to empower and protect 🌟, I'm committed to enhancing digital security. Let's explore tech together 🚀.
+
 <h2> :computer: Cybersecurity Projects</h2>
 
 - [File Integrity Monitoring](https://github.com/DanielDominguezBender/FileIntegrityMonitoring)
