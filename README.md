@@ -11,8 +11,7 @@ From a young age, I've been driven by curiosity about technology, starting with 
 - [Forensic Analysis](https://github.com/DanielDominguezBender/ForensicAnalysis)<br>
 - [Pentesting - Metasploit](https://github.com/DanielDominguezBender/Pentesting-Metasploit-Vulnerabilities)<br>
 - [SQL Injection](https://github.com/DanielDominguezBender/SQLi)<br>
-- [Snort](https://github.com/DanielDominguezBender/Snort)<br>
-- [Pentesting - CTF](https://github.com/DanielDominguezBender/Pentesting-CTF/blob/main/README.md)<br>
+- [IDS - Snort](https://github.com/DanielDominguezBender/Snort)<br>
 
 >[!NOTE]
 > Will come in short :soon:
@@ -24,7 +23,9 @@ From a young age, I've been driven by curiosity about technology, starting with 
 
 
 <h2> :microscope: Labs</h2>
-- <a href="https://github.com/DanielDominguezBender/dockerlabs.es">dockerlabs.es</a>
+
+- [dockerlabs.es](https://github.com/DanielDominguezBender/dockerlabs.es)<br>
+- [Pentesting - CTF](https://github.com/DanielDominguezBender/Pentesting-CTF/blob/main/README.md)<br>
 
 <!-- Técnicas de ocultación de la información -->
 
