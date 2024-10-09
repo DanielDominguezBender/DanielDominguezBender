@@ -26,7 +26,7 @@ From a young age, I've been driven by curiosity about technology, starting with 
 
 - [dockerlabs.es](https://github.com/DanielDominguezBender/dockerlabs.es)<br>
 - [Pentesting - CTF](https://github.com/DanielDominguezBender/Pentesting-CTF/blob/main/README.md)<br>
-- [Azure - Create VM and run Web Server on it](https://github.com/DanielDominguezBender/Labs-Azure-Create-a-VM-machine)<br>
+- [Create VM and run Web Server on it](https://github.com/DanielDominguezBender/Azure-Create-a-VM-machine)<br>
 
 <!-- Técnicas de ocultación de la información -->
 
