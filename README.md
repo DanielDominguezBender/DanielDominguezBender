@@ -30,6 +30,11 @@ From a young age, I've been driven by curiosity about technology, starting with 
 
 <!-- Técnicas de ocultación de la información -->
 
+<h2> :black_nib: :page_with_curl: Write-Ups</h2>
+
+<h3> Over the wire </h3>
+- []
+
 <h2> :books: Education</h2>
 - Master Degree in Cybersecurity and Privacy - <a href="https://www.uoc.edu/es"> UOC </a> <br>
 - Degree in Computer Engineering - <a href="https://www.uoc.edu/es"> UOC </a> <br>
