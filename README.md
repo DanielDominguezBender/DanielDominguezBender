@@ -12,6 +12,7 @@ From a young age, I've been driven by curiosity about technology, starting with 
 - [Pentesting - Metasploit](https://github.com/DanielDominguezBender/Pentesting-Metasploit-Vulnerabilities)<br>
 - [SQL Injection](https://github.com/DanielDominguezBender/SQLi)<br>
 - [IDS - Snort](https://github.com/DanielDominguezBender/Snort)<br>
+- [Port Scanner - Programmed in Rust](https://github.com/DanielDominguezBender/PortScanner-Rust)<br>
 
 >[!NOTE]
 > Will come in short :soon:
