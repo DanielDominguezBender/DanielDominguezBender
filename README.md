@@ -2,7 +2,8 @@
 
 <h2> 🤓 WHOAMI</h2>
 
-From a young age, I've been driven by curiosity about technology, starting with disassembling my Walkman 🎧. My interest in cybersecurity 🔒 led me to a Master's Degree 🎓, where I gained expertise in safeguarding digital landscapes 🌍. With over 10 years in IT 🖥️ and more than 2 years as a developer in business process automation 🤖, I'm passionate about technology's potential to empower and protect 🌟. Let's connect and explore tech together 🚀.
+From a young age, I've been driven by curiosity about technology, starting with disassembling my Walkman 🎧. This curiosity quickly grew into a fascination with computers 💻, leading me to dive deeper into the world of tech. My interest in Cybersecurity eventually guided me to pursue a 🎓Master's Degree 🎓, where I gained expertise in safeguarding digital landscapes 🌍. During my studies, I honed my skills in pentesting and participated in Capture the Flag (CTF) challenges, which were a major part of my final thesis. With over 10 years in IT 🖥️ and more than 2 years as a developer in business process automation 🤖, I'm passionate about technology's potential to empower and protect. Let’s connect and explore the tech world together 🚀.
+As Steve Jobs once said, "Stay hungry, stay foolish" — and that's how I approach every opportunity.
 
 <h2> :computer: Cybersecurity Projects</h2>
 
