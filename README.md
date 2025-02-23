@@ -29,6 +29,7 @@ As Steve Jobs once said, "Stay hungry, stay foolish" — and that's how I approa
 - [dockerlabs.es](https://github.com/DanielDominguezBender/dockerlabs.es)<br>
 - [Pentesting - CTF](https://github.com/DanielDominguezBender/Pentesting-CTF/blob/main/README.md)<br>
 - [Create VM and run Web Server on it](https://github.com/DanielDominguezBender/Azure-Create-a-VM-machine)<br>
+- [Azure - Sentinel](https://github.com/DanielDominguezBender/Azure/tree/main/Sentinel-Honeypod)
 
 <!-- Técnicas de ocultación de la información -->
 
