@@ -17,7 +17,6 @@ As Steve Jobs once said, "Stay hungry, stay foolish" — and that's how I approa
 
 >[!NOTE]
 > Will come in short :soon:
-> [SIEM]
 > [Blockchain]
 > [Raspberry projects]
 > [WSL]
