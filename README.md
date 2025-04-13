@@ -41,6 +41,7 @@ As Steve Jobs once said, "Stay hungry, stay foolish" — and that's how I approa
 - Degree in Computer Engineering - <a href="https://www.uoc.edu/es"> UOC </a> <br>
 
 <h2> :scroll: Certifications </h2>
+- Curso básico técnico de Ciberseguridad por el Instituto Nacional de Ciberseguridad (INCIBE)<br>
 - Google Cybersecurity Certificate<br>
 - Freecodecamp Javascript Algorithms and Data Structures<br>
 - Freecodecamp Responsive Web Design<br>
