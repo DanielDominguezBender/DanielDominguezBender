@@ -48,6 +48,7 @@ As Steve Jobs once said, "Stay hungry, stay foolish" — and that's how I approa
 
 <h2> :sound: Podcasts I'm currently listening to:</h2>
 - Darknet Diaries (Jack Ryshider)<br>
+- The Audit - Cybersecurity Podcast<br>
 - Huberman Lab (Andrew Huberman)<br>
 - Cybersecurity Simplified (Susanna Song & David Barton)
 
