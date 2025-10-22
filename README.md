@@ -34,7 +34,9 @@ As Steve Jobs once said, "Stay hungry, stay foolish" — and that's how I approa
 
 <h2> :black_nib: :page_with_curl: Write-Ups</h2>
 
- - [Over the wire](https://github.com/DanielDominguezBender/OverTheWire)
+- [Over the wire](https://github.com/DanielDominguezBender/OverTheWire)
+- [DockerLabs](https://github.com/DanielDominguezBender/dockerlabs.es)
+- [TryHackMe](https://github.com/DanielDominguezBender/TryHackMe)
 
 <h2> :books: Education</h2>
 - Master Degree in Cybersecurity and Privacy - <a href="https://www.uoc.edu/es"> UOC </a> <br>
