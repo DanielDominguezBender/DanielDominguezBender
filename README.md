@@ -14,6 +14,7 @@ As Steve Jobs once said, "Stay hungry, stay foolish" — and that's how I approa
 - [SQL Injection](https://github.com/DanielDominguezBender/SQLi)<br>
 - [IDS - Snort](https://github.com/DanielDominguezBender/Snort)<br>
 - [Port Scanner (Programmed in Rust)](https://github.com/DanielDominguezBender/PortScanner-Rust)<br>
+- [GPOs - Security Compliance](https://github.com/DanielDominguezBender/Cybersecurity_Compliance)
 
 >[!NOTE]
 > Will come in short :soon:
