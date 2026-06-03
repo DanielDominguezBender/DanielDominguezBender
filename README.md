@@ -2,7 +2,18 @@
 
 <h2> 🤓 WHOAMI</h2>
 
-From a young age, I've been driven by curiosity about technology, starting with disassembling my Walkman 🎧. This curiosity quickly grew into a fascination with computers 💻, leading me to dive deeper into the world of tech. My interest in Cybersecurity eventually guided me to pursue a 🎓Master's Degree 🎓, where I gained expertise in safeguarding digital landscapes 🌍. During my studies, I honed my skills in pentesting and participated in Capture the Flag (CTF) challenges, which were a major part of my final thesis. With over 10 years in IT 🖥️ and more than 2 years as a developer in business process automation 🤖, I'm passionate about technology's potential to empower and protect. Let’s connect and explore the tech world together 🚀.
+Technology professional with 14+ years of experience across IT Operations, Enterprise Networking, SIP Services and Infrastructure Support.
+Currently working at Colt Technology Services delivering enterprise voice and networking solutions for global customers across EMEA, APAC and North America.
+After completing a Master's Degree in Cybersecurity and Privacy, I am focusing my career on Security Operations, Cloud Security, Threat Detection and Vulnerability Management.
+
+Current learning path:
+
+- eJPT
+- ICCA
+- AZ-104
+- Wazuh
+- Azure Sentinel
+- Detection Engineering
 
 <h2> :computer: Cybersecurity Projects</h2>
 
