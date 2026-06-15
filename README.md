@@ -1,83 +1,155 @@
+# Daniel Domínguez Bender
+
 ![Header](imgs/github-header-image.png)
 
-<h2> 🤓 WHOAMI</h2>
 
-Technology professional with 14+ years of experience across IT Operations, Enterprise Networking, SIP Services and Infrastructure Support.
-Currently working at Colt Technology Services delivering enterprise voice and networking solutions for global customers across EMEA, APAC and North America.
-After completing a Master's Degree in Cybersecurity and Privacy, I am focusing my career on Security Operations, Cloud Security, Threat Detection and Vulnerability Management.
+![Linux](https://img.shields.io/badge/Linux-Expert-blue)
+![Python](https://img.shields.io/badge/Python-Intermediate-green)
+![Azure](https://img.shields.io/badge/Azure-Learning-blue)
+![Security](https://img.shields.io/badge/Cybersecurity-Focused-red)
 
-Current learning path:
+# Hello, I'm Daniel
 
-- eJPT
-- ICCA
-- AZ-104
-- Wazuh
-- Azure Sentinel
-- Detection Engineering
+Technology professional with **14+ years of experience** across IT Operations, Enterprise Networking, SIP Services, Infrastructure Support and Enterprise Voice Solutions.
 
-<h2> :computer: Cybersecurity Projects</h2>
+Currently working at **Colt Technology Services**, supporting multinational customers across **EMEA, APAC and North America**.
 
-- [File Integrity Monitoring](https://github.com/DanielDominguezBender/FileIntegrityMonitoring)
-- [Keylogger](https://github.com/DanielDominguezBender/Keylogger)
-- [Forensic Analysis](https://github.com/DanielDominguezBender/ForensicAnalysis)<br>
-- [Pentesting - Metasploit](https://github.com/DanielDominguezBender/Pentesting-Metasploit-Vulnerabilities)<br>
-- [SQL Injection](https://github.com/DanielDominguezBender/SQLi)<br>
-- [IDS - Snort](https://github.com/DanielDominguezBender/Snort)<br>
-- [Port Scanner (Programmed in Rust)](https://github.com/DanielDominguezBender/PortScanner-Rust)<br>
-- [GPOs - Security Compliance](https://github.com/DanielDominguezBender/Cybersecurity_Compliance)
+After completing a **Master's Degree in Cybersecurity and Privacy**, I am focusing my career on:
 
->[!NOTE]
-> Will come in short :soon:
-> [Blockchain]
-> [Raspberry projects]
-> [WSL]
-> [Prepare Linux Terminal for developing]
+* Security Operations
+* Threat Detection
+* Vulnerability Management
+* Security Engineering
+* Cloud Security
+* Detection Engineering
 
+My objective is to combine extensive enterprise infrastructure experience with modern cybersecurity practices to build secure and resilient environments.
 
-<h2> :microscope: Labs</h2>
+---
 
-- [dockerlabs.es](https://github.com/DanielDominguezBender/dockerlabs.es)<br>
-- [Pentesting - CTF](https://github.com/DanielDominguezBender/Pentesting-CTF/blob/main/README.md)<br>
-- [Create VM and run Web Server on it](https://github.com/DanielDominguezBender/Azure-Create-a-VM-machine)<br>
-- [Azure - Sentinel](https://github.com/DanielDominguezBender/Azure/blob/main/Sentinel)
+# Enterprise Experience Snapshot
 
-<!-- Técnicas de ocultación de la información -->
+| Area              | Details                                    |
+| ----------------- | ------------------------------------------ |
+| Experience        | 14+ Years                                  |
+| Current Role      | Lead Technical Analyst                     |
+| Industry          | Telecommunications & Enterprise IT         |
+| Networking        | Enterprise Networking, SIP, VoIP, MPLS     |
+| Security Focus    | Security Operations & Security Engineering |
+| Regions Supported | EMEA, APAC, North America                  |
+| Languages         | English, German, Spanish, Catalan          |
 
-<h2> :black_nib: :page_with_curl: Write-Ups</h2>
+---
 
-- [Over the wire](https://github.com/DanielDominguezBender/OverTheWire)
-- [DockerLabs](https://github.com/DanielDominguezBender/dockerlabs.es)
-- [TryHackMe](https://github.com/DanielDominguezBender/TryHackMe)
+# Current Roadmap
 
-<h2> :books: Education</h2>
-- Master Degree in Cybersecurity and Privacy - <a href="https://www.uoc.edu/es"> UOC </a> <br>
-- Degree in Computer Engineering - <a href="https://www.uoc.edu/es"> UOC </a> <br>
+| Goal                  | Status         |
+| --------------------- | -------------- |
+| eJPT                  | 🟨 In Progress |
+| AZ-104                | 🟨 In Progress |
+| Wazuh SIEM            | 🟩 Active      |
+| Microsoft Sentinel    | 🟩 Active      |
+| Detection Engineering | 🟨 Learning    |
+| Threat Hunting        | 🟨 Learning    |
 
-<h2> :scroll: Certifications </h2>
-- Curso básico técnico de Ciberseguridad por el Instituto Nacional de Ciberseguridad (INCIBE)<br>
-- Google Cybersecurity Certificate<br>
-- Freecodecamp Javascript Algorithms and Data Structures<br>
-- Freecodecamp Responsive Web Design<br>
+---
 
-<h2> :sound: Podcasts I'm currently listening to:</h2>
-- Darknet Diaries (Jack Ryshider)<br>
-- The Audit - Cybersecurity Podcast<br>
-- Huberman Lab (Andrew Huberman)<br>
-- Cybersecurity Simplified (Susanna Song & David Barton)
+# Featured Security Projects
 
-<h2> :cloud: Tryhackme Progress</h2>
-<img src="https://tryhackme-badges.s3.amazonaws.com/dadobe.png" alt="TryHackMe">
-<!--
-**DanielDominguezBender/DanielDominguezBender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project                       | Category                 | Technologies        |
+| ----------------------------- | ------------------------ | ------------------- |
+| File Integrity Monitoring     | Blue Team                | Python, Windows     |
+| OpenVAS Assessment            | Vulnerability Management | OpenVAS             |
+| Azure Sentinel Honeypot       | SIEM                     | Azure, Sentinel     |
+| Active Directory Security Lab | Security Operations      | Windows Server, GPO |
+| pfSense Segmentation Lab      | Network Security         | pfSense             |
+| Port Scanner                  | Development              | Rust                |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Cybersecurity Portfolio
+
+| Repository                                                                                                | Description                          |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| [File Integrity Monitoring](https://github.com/DanielDominguezBender/FileIntegrityMonitoring)             | Detect unauthorized file changes     |
+| [Forensic Analysis](https://github.com/DanielDominguezBender/ForensicAnalysis)                            | Digital forensic investigations      |
+| [Pentesting - Metasploit](https://github.com/DanielDominguezBender/Pentesting-Metasploit-Vulnerabilities) | Vulnerability exploitation exercises |
+| [SQL Injection](https://github.com/DanielDominguezBender/SQLi)                                            | SQL Injection testing and examples   |
+| [IDS - Snort](https://github.com/DanielDominguezBender/Snort)                                             | Intrusion Detection Systems          |
+| [Port Scanner (Rust)](https://github.com/DanielDominguezBender/PortScanner-Rust)                          | Network scanner developed in Rust    |
+| [Security Compliance (GPO)](https://github.com/DanielDominguezBender/Cybersecurity_Compliance)            | Windows hardening and compliance     |
+
+---
+
+# Labs & Hands-On Practice
+
+| Lab                                                                                         | Focus Area                |
+| ------------------------------------------------------------------------------------------- | ------------------------- |
+| [dockerlabs.es](https://github.com/DanielDominguezBender/dockerlabs.es)                     | Offensive Security        |
+| [Pentesting CTF](https://github.com/DanielDominguezBender/Pentesting-CTF)                   | Capture The Flag          |
+| [Azure VM Deployment](https://github.com/DanielDominguezBender/Azure-Create-a-VM-machine)   | Cloud Infrastructure      |
+| [Microsoft Sentinel Lab](https://github.com/DanielDominguezBender/Azure/tree/main/Sentinel) | Cloud Security Monitoring |
+
+---
+
+# Technical Write-Ups
+
+| Platform                                                             | Content                       |
+| -------------------------------------------------------------------- | ----------------------------- |
+| [OverTheWire](https://github.com/DanielDominguezBender/OverTheWire)  | Linux and Security Challenges |
+| [DockerLabs](https://github.com/DanielDominguezBender/dockerlabs.es) | Security Walkthroughs         |
+| [TryHackMe](https://github.com/DanielDominguezBender/TryHackMe)      | Learning Notes and Write-Ups  |
+
+---
+
+# Technical Skills Matrix
+
+| Domain      | Technologies                                                   |
+| ----------- | -------------------------------------------------------------- |
+| Security    | Wazuh, OpenVAS, Nmap, Wireshark, Snort, Burp Suite, Metasploit |
+| Networking  | SIP, VoIP, MPLS, TCP/IP, Routing, Troubleshooting              |
+| Cloud       | Azure, Microsoft Sentinel, AWS Fundamentals                    |
+| Systems     | Linux, Windows Server, pfSense                                 |
+| Automation  | Python, Bash, PowerShell                                       |
+| Development | Rust, JavaScript                                               |
+
+---
+
+# Education
+
+| Degree                                     | Institution                     |
+| ------------------------------------------ | ------------------------------- |
+| Master Degree in Cybersecurity and Privacy | Universitat Oberta de Catalunya |
+| Degree in Computer Engineering             | Universitat Oberta de Catalunya |
+
+---
+
+# Certifications
+
+| Certification                                          | Status         |
+| ------------------------------------------------------ | -------------- |
+| Google Cybersecurity Professional Certificate          | ✅ Completed    |
+| INCIBE Technical Cybersecurity Course                  | ✅ Completed    |
+| eJPT                                                   | 🟨 In Progress |
+| ICCA                                                   | ✅ Completed |
+| AZ-104                                                 | 🟨 In Progress |
+
+---
+
+# GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielDominguezBender\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDominguezBender\&layout=compact)
+
+---
+
+# 🌐 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/danieldominguezbender
+* GitHub: https://github.com/DanielDominguezBender
+* Xing: https://www.xing.com/profile/Daniel_DominguezBender/
+
+---
+
+> Building practical cybersecurity skills through hands-on projects, continuous learning and real-world enterprise experience.
