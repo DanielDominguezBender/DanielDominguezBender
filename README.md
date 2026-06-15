@@ -47,8 +47,9 @@ My objective is to combine extensive enterprise infrastructure experience with m
 | --------------------- | -------------- |
 | eJPT                  | 🟨 In Progress |
 | AZ-104                | 🟨 In Progress |
-| Wazuh SIEM            | 🟩 Active      |
-| Microsoft Sentinel    | 🟩 Active      |
+| CCST                  | 🟨 In Progress |
+| Wazuh SIEM            | 🟩 Learning    |
+| Microsoft Sentinel    | 🟩 Learning    |
 | Detection Engineering | 🟨 Learning    |
 | Threat Hunting        | 🟨 Learning    |
 
@@ -128,7 +129,7 @@ My objective is to combine extensive enterprise infrastructure experience with m
 
 <p align="left">
   <img src="https://img.shields.io/badge/ICCA-Certified-success" />
-  <img src="https://img.shields.io/badge/Google_Cybersecurity-Certified-success" />
+  <img src="https://img.shields.io/badge/CCST-In_Progress-blue" />
   <img src="https://img.shields.io/badge/eJPT-In_Progress-blue" />
   <img src="https://img.shields.io/badge/AZ--104-In_Progress-blue" />
 </p>
