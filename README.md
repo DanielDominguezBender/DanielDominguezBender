@@ -138,16 +138,16 @@ My objective is to combine extensive enterprise infrastructure experience with m
 
 # GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielDominguezBender\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDominguezBender\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielDominguezBender&show_icons=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDominguezBender&layout=compact" height="170">
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/danieldominguezbender
-* GitHub: https://github.com/DanielDominguezBender
 * Xing: https://www.xing.com/profile/Daniel_DominguezBender/
 
 ---
