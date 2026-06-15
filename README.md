@@ -6,8 +6,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-Expert-blue"/>
   <img src="https://img.shields.io/badge/Python-Intermediate-green"/>
-  <img src="https://img.shields.io/badge/Azure-Learning-blue"/>
-  <img src="https://img.shields.io/badge/AZ--104-In_Progress-blue](https://img.shields.io/badge/Cybersecurity-Focused-red"/>
+  <img src="https://img.shields.io/badge/Azure-Learning-orange"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Focused-purple"/>
 </p>
 
 # Hello, I'm Daniel
