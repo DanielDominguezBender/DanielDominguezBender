@@ -3,10 +3,12 @@
 ![Header](imgs/github-header-image.png)
 
 
-![Linux](https://img.shields.io/badge/Linux-Expert-blue)
-![Python](https://img.shields.io/badge/Python-Intermediate-green)
-![Azure](https://img.shields.io/badge/Azure-Learning-blue)
-![Security](https://img.shields.io/badge/Cybersecurity-Focused-red)
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Expert-blue"/>
+  <img src="https://img.shields.io/badge/Python-Intermediate-green"/>
+  <img src="https://img.shields.io/badge/Azure-Learning-blue"/>
+  <img src="https://img.shields.io/badge/AZ--104-In_Progress-blue](https://img.shields.io/badge/Cybersecurity-Focused-red"/>
+</p>
 
 # Hello, I'm Daniel
 
@@ -127,7 +129,7 @@ My objective is to combine extensive enterprise infrastructure experience with m
 
 # Certifications
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/ICCA-Certified-success" />
   <img src="https://img.shields.io/badge/CCST-In_Progress-blue" />
   <img src="https://img.shields.io/badge/eJPT-In_Progress-blue" />
