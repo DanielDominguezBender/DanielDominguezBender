@@ -57,6 +57,14 @@ My objective is to combine extensive enterprise infrastructure experience with m
 
 ---
 
+## Industry Contributions
+
+Cybersecurity Subject Matter Expert (SME) featured in Beroe Inc.'s Premium Market Research Report:
+  - IT Managed Security Services (2026)
+  - Topics: AI in Cybersecurity, SOC Operations, Security Automation, Human-in-the-Loop Governance
+
+---
+
 # Featured Security Projects
 
 | Project                       | Category                 | Technologies        |
