@@ -141,9 +141,9 @@ My objective is to combine extensive enterprise infrastructure experience with m
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielDominguezBender&show_icons=true&theme=tokyonight" height="170">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDominguezBender&layout=compact&theme=tokyonight" height="170">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielDominguezBender&theme=tokyonight" height="170">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDominguezBender&layout=compact&theme=tokyonight" height="170">
 </p>
 
 ---
