@@ -126,13 +126,12 @@ My objective is to combine extensive enterprise infrastructure experience with m
 
 # Certifications
 
-| Certification                                          | Status         |
-| ------------------------------------------------------ | -------------- |
-| Google Cybersecurity Professional Certificate          | ✅ Completed    |
-| INCIBE Technical Cybersecurity Course                  | ✅ Completed    |
-| eJPT                                                   | 🟨 In Progress |
-| ICCA                                                   | ✅ Completed |
-| AZ-104                                                 | 🟨 In Progress |
+<p align="left">
+  <img src="https://img.shields.io/badge/ICCA-Certified-success" />
+  <img src="https://img.shields.io/badge/Google_Cybersecurity-Certified-success" />
+  <img src="https://img.shields.io/badge/eJPT-In_Progress-blue" />
+  <img src="https://img.shields.io/badge/AZ--104-In_Progress-blue" />
+</p>
 
 ---
 
