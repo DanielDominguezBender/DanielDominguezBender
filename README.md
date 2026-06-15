@@ -57,7 +57,7 @@ My objective is to combine extensive enterprise infrastructure experience with m
 
 ---
 
-## Industry Contributions
+# Industry Contributions
 
 Cybersecurity Subject Matter Expert (SME) featured in Beroe Inc.'s Premium Market Research Report:
   - IT Managed Security Services (2026)
