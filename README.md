@@ -100,6 +100,7 @@ Cybersecurity Subject Matter Expert (SME) featured in Beroe Inc.'s Premium Marke
 | [Pentesting CTF](https://github.com/DanielDominguezBender/Pentesting-CTF)                   | Capture The Flag          |
 | [Azure VM Deployment](https://github.com/DanielDominguezBender/Azure-Create-a-VM-machine)   | Cloud Infrastructure      |
 | [Microsoft Sentinel Lab](https://github.com/DanielDominguezBender/Azure/tree/main/Sentinel) | Cloud Security Monitoring |
+| [Project-Guardian](https://github.com/DanielDominguezBender/project-guardian)               | Infraestructure Platform on a Raspberry PI 5 |
 
 ---
 
