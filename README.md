@@ -33,7 +33,7 @@ My objective is to combine extensive enterprise infrastructure experience with m
 
 | Area              | Details                                    |
 | ----------------- | ------------------------------------------ |
-| Experience        | 14+ Years                                  |
+| Experience        | 10+ Years                                  |
 | Current Role      | Lead Technical Analyst                     |
 | Industry          | Telecommunications & Enterprise IT         |
 | Networking        | Enterprise Networking, SIP, VoIP, MPLS     |
