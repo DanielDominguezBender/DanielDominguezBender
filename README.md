@@ -12,7 +12,7 @@
 
 # Hello, I'm Daniel
 
-Technology professional with **14+ years of experience** across IT Operations, Enterprise Networking, SIP Services, Infrastructure Support and Enterprise Voice Solutions.
+Technology professional with **10+ years of experience** across IT Operations, Enterprise Networking, SIP Services, Infrastructure Support and Enterprise Voice Solutions.
 
 Currently working at **Colt Technology Services**, supporting multinational customers across **EMEA, APAC and North America**.
 
