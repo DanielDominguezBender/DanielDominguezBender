@@ -49,7 +49,6 @@ My objective is to combine extensive enterprise infrastructure experience with m
 | --------------------- | -------------- |
 | eJPT                  | 🟨 In Progress |
 | AZ-104                | 🟨 In Progress |
-| CCST                  | 🟨 In Progress |
 | Wazuh SIEM            | 🟩 Learning    |
 | Microsoft Sentinel    | 🟩 Learning    |
 | Detection Engineering | 🟨 Learning    |
