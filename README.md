@@ -1,6 +1,6 @@
 # Daniel Domínguez Bender
 
-![Header](imgs/github-header-image.png)
+![Header](imgs/github-header-image_new.png)
 
 
 <p align="center">
