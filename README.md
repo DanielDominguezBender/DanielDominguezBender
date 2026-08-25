@@ -1,5 +1,3 @@
-# Daniel Domínguez Bender
-
 ![Header](imgs/github-header-image_new.png)
 
 
