@@ -4,10 +4,12 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Expert-blue"/>
-  <img src="https://img.shields.io/badge/Python-Intermediate-green"/>
-  <img src="https://img.shields.io/badge/Azure-Learning-orange"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-Focused-purple"/>
+  <img src="https://img.shields.io/badge/Linux-yellow"/>
+  <img src="https://img.shields.io/badge/Python-green"/>
+  <img src="https://img.shields.io/badge/Azure-blue"/>
+  <img src="https://img.shields.io/badge/Azure-orange"/>
+  <img src="https://img.shields.io/badge/Bash-purple"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-red"/>
 </p>
 
 # Hello, I'm Daniel
