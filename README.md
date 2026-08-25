@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Linux-yellow"/>
   <img src="https://img.shields.io/badge/Python-green"/>
   <img src="https://img.shields.io/badge/Azure-blue"/>
-  <img src="https://img.shields.io/badge/Azure-orange"/>
+  <img src="https://img.shields.io/badge/AWS-orange"/>
   <img src="https://img.shields.io/badge/Bash-purple"/>
   <img src="https://img.shields.io/badge/Cybersecurity-red"/>
 </p>
