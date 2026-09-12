@@ -99,7 +99,7 @@ Cybersecurity Subject Matter Expert (SME) featured in Beroe Inc.'s Premium Marke
 | [Azure VM Deployment](https://github.com/DanielDominguezBender/Azure-Create-a-VM-machine)   | Cloud Infrastructure      |
 | [Microsoft Sentinel Lab](https://github.com/DanielDominguezBender/Azure/tree/main/Sentinel) | Cloud Security Monitoring |
 | [Project-Guardian](https://github.com/DanielDominguezBender/project-guardian)               | Infraestructure Platform on a Raspberry PI 5 |
-| [Project-Argus](https://github.com/DanielDominguezBender?tab=repositories)| Proxmox-based infrastructure, automation and monitoring homelab |
+| [Project-Argus](https://github.com/DanielDominguezBender/Project-Argus)| Proxmox-based infrastructure, automation and monitoring homelab |
 
 ---
 
