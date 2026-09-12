@@ -48,7 +48,6 @@ My objective is to combine extensive enterprise infrastructure experience with m
 | Goal                  | Status         |
 | --------------------- | -------------- |
 | eJPT                  | 🟨 In Progress |
-| AZ-104                | 🟨 In Progress |
 | Wazuh SIEM            | 🟩 Learning    |
 | Microsoft Sentinel    | 🟩 Learning    |
 | Detection Engineering | 🟨 Learning    |
@@ -100,6 +99,7 @@ Cybersecurity Subject Matter Expert (SME) featured in Beroe Inc.'s Premium Marke
 | [Azure VM Deployment](https://github.com/DanielDominguezBender/Azure-Create-a-VM-machine)   | Cloud Infrastructure      |
 | [Microsoft Sentinel Lab](https://github.com/DanielDominguezBender/Azure/tree/main/Sentinel) | Cloud Security Monitoring |
 | [Project-Guardian](https://github.com/DanielDominguezBender/project-guardian)               | Infraestructure Platform on a Raspberry PI 5 |
+| [Project-Argus](https://github.com/DanielDominguezBender?tab=repositories)| Proxmox-based infrastructure, automation and monitoring homelab |
 
 ---
 
