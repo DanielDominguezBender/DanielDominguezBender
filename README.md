@@ -140,7 +140,7 @@ Cybersecurity Subject Matter Expert (SME) featured in Beroe Inc.'s Premium Marke
 
 <p align="center">
   <img src="https://img.shields.io/badge/ICCA-Certified-success" />
-  <img src="https://img.shields.io/badge/CCST-succes" />
+  <img src="https://img.shields.io/badge/CCST-Certified-succes" />
   <img src="https://img.shields.io/badge/eJPT-In_Progress-blue" />
   <img src="https://img.shields.io/badge/AZ--104-In_Progress-blue" />
 </p>
