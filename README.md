@@ -48,6 +48,7 @@ My objective is to combine extensive enterprise infrastructure experience with m
 | Goal                  | Status         |
 | --------------------- | -------------- |
 | eJPT                  | 🟨 In Progress |
+| CCST                  | 🟩 Completed   |
 | Wazuh SIEM            | 🟩 Learning    |
 | Microsoft Sentinel    | 🟩 Learning    |
 | Detection Engineering | 🟨 Learning    |
@@ -139,7 +140,7 @@ Cybersecurity Subject Matter Expert (SME) featured in Beroe Inc.'s Premium Marke
 
 <p align="center">
   <img src="https://img.shields.io/badge/ICCA-Certified-success" />
-  <img src="https://img.shields.io/badge/CCST-In_Progress-blue" />
+  <img src="https://img.shields.io/badge/CCST-succes" />
   <img src="https://img.shields.io/badge/eJPT-In_Progress-blue" />
   <img src="https://img.shields.io/badge/AZ--104-In_Progress-blue" />
 </p>
